@@ -1,2 +1,2 @@
 # orson
-Client application implementing Shazbot Labs Imformation Management.
+Client application implementing Shazbot Labs Information Management.
